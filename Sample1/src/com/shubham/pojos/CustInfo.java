@@ -1,4 +1,4 @@
-package pojos;
+package com.shubham.pojos;
 
 public class CustInfo {
 
